@@ -16,6 +16,7 @@ namespace WindowsFormsApp1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            //sufgeuifwo
             Application.Run(new Form1())  ;
         } 
     }
